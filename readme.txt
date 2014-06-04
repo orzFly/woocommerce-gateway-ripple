@@ -25,7 +25,20 @@ Any order older than 7 days will not be checked automatically. Any order receive
 
 Note: You must have WooCommerce Installed to make this plugin work.
 
-== Frequently asked questions ==
+== Frequently Asked Questions ==
 
-Q. What are the dependencies for this plugin.
-A. WooCommerce must be installed.
+= What are the dependencies for this plugin. =
+WooCommerce must be installed.
+
+== Screenshots ==
+There is no need to have a screenshot.
+
+== Changelog ==
+
+= 1.0 =
+* First release.
+
+== Upgrade Notice ==
+
+= 1.0 =
+First release.
